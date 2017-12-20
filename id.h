@@ -1,8 +1,4 @@
-/*
- id.h
- Nick Zelada
- 09/21/17
- */
+
 
 #ifndef _ID_H
 #define _ID_H
